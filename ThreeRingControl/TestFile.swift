@@ -7,3 +7,8 @@
 //
 
 import Foundation
+
+public class TestFile
+{
+    public let constantString = "testing"
+}
