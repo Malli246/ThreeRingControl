@@ -19,6 +19,7 @@
 		86CE1F811F6667F300949E2F /* Utilities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86CE1F791F6667F300949E2F /* Utilities.swift */; };
 		86CE1F821F6667F300949E2F /* winning.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 86CE1F7A1F6667F300949E2F /* winning.mp3 */; };
 		86CE1F921F666F3800949E2F /* ThreeRingTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86CE1F911F666F3800949E2F /* ThreeRingTest.swift */; };
+		86CE1F991F66944500949E2F /* TestFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86CE1F981F66944500949E2F /* TestFile.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		86CE1F791F6667F300949E2F /* Utilities.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
 		86CE1F7A1F6667F300949E2F /* winning.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = winning.mp3; sourceTree = "<group>"; };
 		86CE1F911F666F3800949E2F /* ThreeRingTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThreeRingTest.swift; sourceTree = "<group>"; };
+		86CE1F981F66944500949E2F /* TestFile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TestFile.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +119,7 @@
 				86CE1F781F6667F300949E2F /* ThreeRingView.swift */,
 				86CE1F791F6667F300949E2F /* Utilities.swift */,
 				86CE1F7A1F6667F300949E2F /* winning.mp3 */,
+				86CE1F981F66944500949E2F /* TestFile.swift */,
 			);
 			name = Phonercise;
 			sourceTree = "<group>";
@@ -240,6 +243,7 @@
 				86CE1F811F6667F300949E2F /* Utilities.swift in Sources */,
 				86CE1F7B1F6667F300949E2F /* CircularGradient.swift in Sources */,
 				86CE1F7F1F6667F300949E2F /* RingTip.swift in Sources */,
+				86CE1F991F66944500949E2F /* TestFile.swift in Sources */,
 				86CE1F801F6667F300949E2F /* ThreeRingView.swift in Sources */,
 				86CE1F7E1F6667F300949E2F /* RingLayer.swift in Sources */,
 				86CE1F7D1F6667F300949E2F /* Fanfare.swift in Sources */,
