@@ -11,4 +11,6 @@ import Foundation
 public class TestFile
 {
     public let constantString = "testing"
+    
+     public let constantStringTest = "testing Again"
 }
