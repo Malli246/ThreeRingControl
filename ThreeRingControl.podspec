@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
 
 
 s.name         = "ThreeRingControl"
-s.version      = "1.0.0"
+s.version      = “1.0.1”
 s.summary      = "A three-ring control like the Activity status bars"
 s.description  = "The three-ring is a completely customizable widget that can be used in any iOS app. It also plays a little victory fanfare."
 s.homepage     = "https://raywenderlich.com"
