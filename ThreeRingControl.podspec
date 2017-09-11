@@ -25,7 +25,7 @@ s.source_files = "ThreeRingControl", "ThreeRingControl/**/*.{h,m,swift}"
 
 s.resources    = "ThreeRingControl/*.mp3"
 
-s.pod_target_xcconfig = { 'SWIFT_VERSION' => '3' }
+s.pod_target_xcconfig = { 'SWIFT_VERSION' => ‘2.3’ }
 
 
 end
