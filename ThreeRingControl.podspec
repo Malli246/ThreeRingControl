@@ -25,7 +25,7 @@ s.source_files = "ThreeRingControl", "ThreeRingControl/**/*.{h,m,swift}"
 
 s.resources    = "ThreeRingControl/*.mp3"
 
-`echo "2.3" > .swift-version`
+`echo “3.0” > .swift-version`
 
 
 end
